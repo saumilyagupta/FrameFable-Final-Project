@@ -7,7 +7,7 @@ export const AppBar: FC = () => {
     return (
         <div className={styles.AppHeader}>
             
-            <span>FrameFables</span>
+            <span>Frame Fables</span>
             <WalletMultiButton />
         </div>
     )
